@@ -1,5 +1,7 @@
 # Tricks of Semi-supervised Deep Leanring --Pytorch
 
+VAT PowerPoint link: https://mega.nz/file/og4QkCBB#xcExOMISd7igj5lVA5qmzryI6vUXkAuOb-gqUBZQUpg
+
 The repository implements following semi-supervised deep learning methods:
 
 - **PseudoLabel 2013**: The Simple and Efficient Semi-Supervised Learning Method for Deep Neural Networks (ICMLW 2013)
